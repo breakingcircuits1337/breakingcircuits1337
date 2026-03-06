@@ -77,6 +77,26 @@ Instead of individual scripts, my work is categorized into enterprise-grade ecos
 <img src="https://github-readme-stats.vercel.app/api?username=breakingcircuits1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breakingcircuits1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 
+---
+
+### 🎧 THE COMMAND DECK 
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/SYSTEM_LOG-VIDEO_ARCHIVE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /><br><br>
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg" alt="System Demonstration" width="700" style="border-radius: 10px; border: 2px solid #00FF00;"/>
+</a>
+
+<br><br>
+
+**CURRENT AUDIO FEED**<br>
+[![Spotify](https://img.shields.io/badge/Spotify-Wicked_Clown_Mix-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/YOUR_PLAYLIST_ID_HERE)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Horrorcore_Instrumentals-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/YOUR_SOUNDCLOUD_LINK)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-Focus_Tracks-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/us/playlist/YOUR_PLAYLIST)
+
+</div>
+
 <br><br>
 ![](https://komarev.com/ghpvc/?username=breakingcircuits1337&color=00FF00&style=for-the-badge&label=ROOT+ACCESS+LOGINS)
 
